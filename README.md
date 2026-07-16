@@ -1,21 +1,6 @@
 <div align="center">
 
-#                                                  
-                :               :                
-               t#,             t#,               
-  j.          ;##W. itttttttt ;##W.              
-  EW,        :#L:WE fDDK##DDi:#L:WE              
-  E##j      .KG  ,#D   t#E  .KG  ,#D  :KW,      L
-  E###D.    EE    ;#f  t#E  EE    ;#f  ,#W:   ,KG
-  E#jG#W;  f#.     t#i t#E f#.     t#i  ;#W. jWi 
-  E#t t##f :#G     GK  t#E :#G     GK    i#KED.  
-  E#t  :K#E:;#L   LW.  t#E  ;#L   LW.     L#W.   
-  E#KDDDD###it#f f#: jfL#E   t#f f#:    .GKj#K.  
-  E#f,t#Wi,,, f#D#;  :K##E    f#D#;    iWf  i#K. 
-  E#t  ;#W:    G#t     G#E     G#t    LK:    t#E 
-  DWi   ,KK:    t       tE      t     i       tDj
-                         .                       
-                                                 
+# RJX
 
 ### SOFTWARE ENGINEER · SYSTEM ARCHITECT · TECHNICAL FOUNDER
 
