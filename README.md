@@ -237,6 +237,6 @@ For serious collaboration, technical discussions, or independent technology proj
 
 **Deeper and more authentic connections.**
 
-`ENGINEERING IN PROGRESS // SIGNAL ACTIVE`
+`ENGINEERING IN PROGRESS`
 
 </div>
