@@ -226,6 +226,7 @@ The best way to follow my work is through GitHub.
 
 * GitHub: [@rojoxstar](https://github.com/rojoxstar)
 * Project: [catso.app](https://catso.app)
+* [![Instagram](https://img.shields.io/badge/Instagram-@rojox__star-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rojox_star/)
 
 For serious collaboration, technical discussions, or independent technology projects, open an issue or contact me through one of my public project channels.
 
