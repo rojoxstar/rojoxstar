@@ -1,10 +1,27 @@
 <div align="center">
 
-# RJX
+<div align="center">
+<pre>
+                :               :                
+               t#,             t#,               
+  j.          ;##W. itttttttt ;##W.              
+  EW,        :#L:WE fDDK##DDi:#L:WE              
+  E##j      .KG  ,#D   t#E  .KG  ,#D  :KW,      L
+  E###D.    EE    ;#f  t#E  EE    ;#f  ,#W:   ,KG
+  E#jG#W;  f#.     t#i t#E f#.     t#i  ;#W. jWi 
+  E#t t##f :#G     GK  t#E :#G     GK    i#KED.  
+  E#t  :K#E:;#L   LW.  t#E  ;#L   LW.     L#W.   
+  E#KDDDD###it#f f#: jfL#E   t#f f#:    .GKj#K.  
+  E#f,t#Wi,,, f#D#;  :K##E    f#D#;    iWf  i#K. 
+  E#t  ;#W:    G#t     G#E     G#t    LK:    t#E 
+  DWi   ,KK:    t       tE      t     i       tDj
+                         .                       
+</pre>
 
 ### SOFTWARE ENGINEER · SYSTEM ARCHITECT · TECHNICAL FOUNDER
 
 **Building independent systems with purpose, identity, and operational discipline.**
+</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-rojoxstar-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rojoxstar)
 ![Location](https://img.shields.io/badge/Location-Chile-0d1117?style=for-the-badge)
