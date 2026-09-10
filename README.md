@@ -250,7 +250,7 @@ For serious collaboration, technical discussions, or independent technology proj
 
 <div align="center">
 
-### THE CATSO CULT
+### cAtSoUrAs
 
 **Deeper and more authentic connections.**
 
