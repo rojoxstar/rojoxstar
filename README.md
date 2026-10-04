@@ -42,12 +42,7 @@ Interactive software — old-web interfaces, Canvas experiments, small games, vi
 
 Engineering foundations — database design, authorization boundaries, migrations, local infrastructure, testing, and all the unglamorous pieces that keep ambitious ideas alive.
 
-My usual tools
-
-TypeScript · React · Next.js · Node.js
-PostgreSQL · Supabase · Docker · Vercel
-Python · Pygame · Canvas 2D · Linux
-GitHub Actions · Blender · Figma · GIMP
+My usual tools: 🦫 🇦🇮
 
 Default settings
 
