@@ -77,7 +77,7 @@ GitHub: @rojoxstar
 
 Open-source hardware work: imac19-2-cs8409-linux
 
-Main project: catso.app
+Main project: catsooooooooooooooooooooooooooooooooooooooooo
 
 currently online
 probably building
